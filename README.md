@@ -30,5 +30,8 @@ Several classification models were evaluated, including Logistic Regression, Dec
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the application using `streamlit run app.py`.
 
+## Demo
+https://youtu.be/oAhNtli9D-A
+
 ## Note
 Model performance and business metrics are based on the project's dataset and evaluation setup. They should not be interpreted as guaranteed real-world marketing results.
