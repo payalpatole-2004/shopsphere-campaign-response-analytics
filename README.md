@@ -3,8 +3,7 @@
 ## Project Overview
 ShopSphere Campaign Response Analytics is a machine learning project that analyzes customer, marketing campaign, website activity, and customer service data to understand purchase behavior and predict which customers are more likely to respond to a campaign.
 
-## 🚀Live Demo: Open ShopSphere App
-
+## 🚀 Live Demo: [Open ShopSphere App](https://shopsphere-campaign-response-analytics-yjyppwshj2b2huudv4wbdz.streamlit.app/)
 
 
 ## Problem Statement
